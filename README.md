@@ -33,4 +33,4 @@ In addition to the rest of the model The resulting percentage is completely nega
 
 until I tried another model that gave me quite a satisfactory percentage
 
-![holyday one](img/.png)
+![holyday one](img/finalmodel.png)
