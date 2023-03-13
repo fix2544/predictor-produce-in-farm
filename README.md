@@ -11,4 +11,26 @@
 ![holyday one](img/3.png.png)
 
 ## First step to make a prediction
+##### Retrieve files from Excel
 
+![holyday one](img/4.png)
+
+##### And I try many model to make a prediction
+
+![holyday one](img/5.png)
+
+##### But it gave me less satisfactory results.
+
+##### For Gradient Boosted Trees Learner (Regression)
+
+![holyday one](img/6.1.png)
+
+##### For simple Regression tree learner
+
+![holyday one](img/6.2.png) 
+
+In addition to the rest of the model The resulting percentage is completely negative.
+
+until I tried another model that gave me quite a satisfactory percentage
+
+![holyday one](img/.png)
